@@ -3,7 +3,7 @@
 ## I'm a Student, UI/UX Designer and Front End Developer!!
 
 - 🔅 <i><b>Learning everything</b></i>🙃
-- 🔮 <i><b>Currently working on Cognizance-CMS</b></i>
+- 🔮 <i><b>Currently working on Cognizance-CMS as a UI designer and a Front End Developer</b></i>
 - 📰 <i><b>I’m looking forward to collaborate with other designers and developers</b></i>
 - ❄️ <i><b>Fun fact: I am a Graphic Designer and a Photographer</b></i>
 - 😎 <i><b>Member at the [Cognizance-Amrita University][cognizance]  </b></i>
