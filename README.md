@@ -19,7 +19,7 @@
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://image.flaticon.com/icons/png/512/1051/1051277.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="CSS3" width="26px" src="https://image.flaticon.com/icons/png/512/732/732190.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
@@ -27,6 +27,10 @@
 <img align="left" alt="Git" width="26px" src="https://image.flaticon.com/icons/png/512/2111/2111288.png" />
 <img align="left" alt="GitHub" width="26px" src="https://image.flaticon.com/icons/png/512/270/270798.png" />
 <img align="left" alt="Terminal" width="26px" src="https://image.flaticon.com/icons/png/512/668/668453.png" />
+<img align="left" alt="photoshop" width="26px" src="https://image.flaticon.com/icons/png/512/552/552220.png" />
+<img align="left" alt="illustrator" width="26px" src="https://image.flaticon.com/icons/png/512/552/552222.png" />
+<img align="left" alt="xd" width="26px" src="https://image.flaticon.com/icons/png/512/552/552224.png" />
+<img align="left" alt="Dreamweaver" width="26px" src="https://image.flaticon.com/icons/png/512/552/552228.png" />
 
 <br />
 <br />
