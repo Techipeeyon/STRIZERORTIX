@@ -23,7 +23,7 @@
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="MySQL" width="26px" src="https://image.flaticon.com/icons/png/512/1199/1199128.png" />
+<img align="left" alt="MySQL" width="26px" src="https://image.flaticon.com/icons/png/512/919/919836.png" />
 <img align="left" alt="Git" width="26px" src="https://image.flaticon.com/icons/png/512/2111/2111288.png" />
 <img align="left" alt="GitHub" width="26px" src="https://image.flaticon.com/icons/png/512/270/270798.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
