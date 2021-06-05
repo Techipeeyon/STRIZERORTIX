@@ -5,7 +5,7 @@
 - 🔅 <i><b>I’m currently learning everything</b></i>🙃
 - 📰 <i><b>I’m looking forward to collaborate with other designers and developers</b></i>
 - ❄️ <i><b>Fun fact: I am a Graphic Designer and a Photographer</b></i>
-- 😎 <i><b>Member at the Cognizance-Amrita University</b></i>
+- 😎 <i><b>Member at the Cognizance-Amrita University https://github.com/cognizance-amrita </b></i>
 
 ### Connect with me:
 
