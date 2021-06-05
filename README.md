@@ -5,7 +5,7 @@
 - 🔅 <i><b>I’m currently learning everything</b></i>🙃
 - 📰 <i><b>I’m looking forward to collaborate with other designers and developers</b></i>
 - ❄️ <i><b>Fun fact: I am a Graphic Designer and a Photographer</b></i>
-- 😎 <i><b>Member at the Cognizance-Amrita University https://github.com/cognizance-amrita </b></i>
+- 😎 <i><b>Member at the [Cognizance-Amrita University][cognizance]  </b></i>
 
 ### Connect with me:
 
@@ -36,6 +36,6 @@
 <br />
 
 [twitter]: https://twitter.com/Strizer_Ortix
-
+[cognizance]: https://github.com/cognizance-amrita
 [instagram]: https://www.instagram.com/strizer_ortix/
 
